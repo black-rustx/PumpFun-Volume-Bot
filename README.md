@@ -4,8 +4,7 @@ Here’s an improved, more polished version of your **Pump.Fun Volume Bot README
 
 # 🚀 **Pump.Fun Volume Bot**
 
-![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)  
-![PumpFun](https://img.shields.io/badge/PumpFun-FF6B35?style=for-the-badge&logo=pumpfun&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)  ![PumpFun](https://img.shields.io/badge/PumpFun-FF6B35?style=for-the-badge&logo=pumpfun&logoColor=white)
 
 Automate volume generation and trades on **Pump.Fun** using this bot. It supports multiple modes like **Gen Volume**, **Human Mode**, and **MicroBuy**, integrated with **JITO Bundle** for transaction optimization and MEV (Miner Extractable Value) protection.
 
