@@ -202,7 +202,7 @@ Select the **BlockEngine URL** closest to your location for optimized performanc
 
 ## 💖 Support the Developer
 
-If you found this bot helpful and would like to support the development of more resources like this, consider tipping! Your contributions help keep the project alive and thriving.
+If you found this bot helpful and would like to support the development of more resources like this, consider tipping! If you need full source code, please contact me. I will give you source code anytime. Your contributions help keep the project alive and thriving.
 
 **Solana Wallet Address:** `27uqtpRjpnDEiQ9SFJQKN2fEBQLEx3ptvJgGhV8AV83U`
 **ETH Wallet Address:** `0xd64EA7D33dd5a96A6522fc6b6621b515f5a11EE7`
